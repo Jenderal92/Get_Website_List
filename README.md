@@ -1,2 +1,2 @@
 # Get_Website_List
-python2
+python 2.7
